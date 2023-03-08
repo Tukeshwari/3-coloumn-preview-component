@@ -1,6 +1,11 @@
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+# deploy-link
+https://tukeshwari-3column-preview-component.netlify.app
+# desktop-view
+![active-states](https://user-images.githubusercontent.com/102142382/223824226-5254d6fc-ce06-487d-bb42-d97a494f0051.jpg)
+# mobile-view
+![mobile-design](https://user-images.githubusercontent.com/102142382/223824265-b0ae4196-21a0-4c3f-907f-9faf96eebec4.jpg)
 
 ## Welcome! 👋
 
